@@ -1,7 +1,9 @@
-This Github includes files used in https://ak321blog.wordpress.com/2015/12/14/kaggle-otto-group-competition/
+by ak321/Wjack07 @ 3Feb2016 
+---
+This Github includes files used in 
+https://ak321blog.wordpress.com/2015/12/14/kaggle-otto-group-competition/
 
 Python files are just for reference. I mainly did this competitions on R.
-
 
 Step 1 includes parameters random search for classifiers (here I includes XGB and RF).
 Step 2 is about ensembling.
