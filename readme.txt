@@ -1,4 +1,4 @@
-by ak321/Wjack07 @ 3Feb2016 
+by ak321/Wjack07 @ 14Dec2016 
 ---
 This Github includes files used in 
 https://ak321blog.wordpress.com/2015/12/14/kaggle-otto-group-competition/
